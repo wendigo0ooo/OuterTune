@@ -23,12 +23,12 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace = "com.dd3boh.outertune"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.wendigo0ooo.music"
         minSdk = 26
-        targetSdk = 37
+        targetSdk = 36
         versionCode = 73
         versionName = "0.11.1"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
